@@ -5,7 +5,7 @@
 
 ### Application Description
 
-The Task Manager is a web-based application that allows users to manage their tasks efficiently. The application incorporates multiple functionalities, such as user authentication, task persistence, and user-specific tasks management. It ensures data privacy, allowing only the user to access and manage their tasks securely. Users can create, retrieve, update, and delete tasks, as well as retrieve all their tasks at once. The backend infrastructure is built using the Python Flask framework and follows the RESTful service model (REST APIs).
+The FlaskTaskMaster is a web-based application that allows users to manage their tasks efficiently. The application incorporates multiple functionalities, such as user authentication, task persistence, and user-specific tasks management. It ensures data privacy, allowing only the user to access and manage their tasks securely. Users can create, retrieve, update, and delete tasks, as well as retrieve all their tasks at once. The backend infrastructure is built using the Python Flask framework and follows the RESTful service model (REST APIs).
 
 ### Features
 
